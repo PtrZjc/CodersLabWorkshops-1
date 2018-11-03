@@ -2,3 +2,4 @@ span.title http://www.onet.pl/
 a[href][title] https://www.interia.pl/
 a[href][title] https://www.tvn24.pl/
 span[class] http://www.gazeta.pl/
+a[href][title] https://www.pikio.pl/

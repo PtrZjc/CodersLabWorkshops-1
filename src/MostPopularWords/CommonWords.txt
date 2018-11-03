@@ -1,0 +1,84 @@
+The commonly occurring words were analyzed on the following websites:
+
+interia
+gazeta
+pikio
+tvn24
+onet
+
+
+Words occurring in the quantity of 5:
+
+bardzo          będzie          chce            
+gwiazda         jeden           jego            
+jest            krzysztof       nowe            
+roku            tylko           wszystkie       
+END
+
+Words occurring in the quantity of 4:
+
+było            chciał          domu            
+historii        koniec          które           
+mecz            mogą            może            
+mógł            najlepsze       nawet           
+nikt            osób            pieniędzy       
+podczas         pogoda          polacy          
+przed           samobójstwo     sport           
+sposób          tego            wciąż           
+wideo           wiele           więcej          
+zdjęcia         zobacz          życie           
+żyje            END
+
+Words occurring in the quantity of 3:
+
+akcja           anglii          apokaliptyczna  
+arsenal         auta            auto            
+biznes          buduje          będą            
+ciepłe          coraz           córka           
+cówce           dlaczego        dobrze          
+dolarów         dramat          dzieci          
+dziecko         dzieje          dzięki          
+ekstraklasa     elon            fani            
+firma           gdzie           gole            
+gorzej          halloween       hicie           
+internauci      iran            jesie           
+jeszcze         joanna          jutro           
+kaczy           katastrofa      kiedy           
+kierowców       kilku           kobiet          
+kobiety         kolejne         kraju           
+który           latka           legia           
+lekarza         lepszy          letnia          
+lewandowski     liczba          madryt          
+mają            mamy            masz            
+mazowszu        meczu           meghan          
+miał            miejsca         milion          
+miliony         mistrzów        mogli           
+musk            najlepszych     najnowsze       
+naprawdę        naszych         nich            
+niej            nigdy           nowa            
+nowy            odry            ofiary          
+ojca            ostatnich       pierwszy        
+piątek          polak           polaków         
+polsce          polska          polski          
+polskie         pomoc           potem           
+powstanie       powód           pozew           
+premier         premiery        problem         
+przepis         przez           pyrkosza        
+płock           real            rekord          
+rozbił          rynku           rząd            
+rządu           sama            selfie          
+show            skandal         skie            
+skiego          skiej           smartfon        
+sobie           sprawdź         stanie          
+start           stylu           sytuacja        
+szef            takich          trafił          
+trik            trzy            uwaga           
+warszawa        warto           wcześniej       
+wielki          większość       wszyscy         
+wszystko        wydarzenia      wygląda         
+właśnie         włoszech        zakupy          
+zawsze          zdradził        zdrowie         
+znów            zrobić          zrobiła         
+łódź            ślub            śmierci         
+śmierć          śnieg           świecie         
+życia           END
