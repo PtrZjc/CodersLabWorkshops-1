@@ -31,7 +31,7 @@ public class main {
                     countedWords.put(word, countedWords.get(word) + 1);
                 }
             }
-            saveMapToFile(countedWords);
+            compareAndSaveToFile(countedWords);
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -96,7 +96,7 @@ public class main {
 
     }
 
-    public static void saveMapToFile(HashMap map) {
+    public static void compareAndSaveToFile(HashMap map) {
         Path commonWords = Paths.get("src", "MostPopularWords", "CommonWords.txt");
         List<String> tempWords = new LinkedList<>();
         Iterator<Map.Entry<String, Integer>> iter;
@@ -114,6 +114,8 @@ public class main {
             for (String file : fileNameSet) {
                 writer.write(file + "\n");
             }
+
+            //section responsible for comparing the words between the sites:
             for (int i = fileNameSet.size(); i > 1; i--) {
                 writer.flush();
                 if (map.containsValue(i)) {
@@ -138,6 +140,7 @@ public class main {
                         counter = 0;
                     }
                 }
+                System.out.println(tempWords.toString());
                 tempWords.clear();
                 counter = 0;
             }

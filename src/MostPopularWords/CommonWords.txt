@@ -9,76 +9,77 @@ onet
 
 Words occurring in the quantity of 5:
 
-bardzo          będzie          chce            
-gwiazda         jeden           jego            
-jest            krzysztof       nowe            
-roku            tylko           wszystkie       
-END
+będzie          chce            jeden           
+jest            ludzi           nowe            
+ofiar           roku            tylko           
+
 
 Words occurring in the quantity of 4:
 
-było            chciał          domu            
-historii        koniec          które           
-mecz            mogą            może            
-mógł            najlepsze       nawet           
-nikt            osób            pieniędzy       
-podczas         pogoda          polacy          
-przed           samobójstwo     sport           
-sposób          tego            wciąż           
-wideo           wiele           więcej          
-zdjęcia         zobacz          życie           
-żyje            END
+akcja           bardzo          dwie            
+dzieci          dziś            historii        
+jego            koniec          krzysztof       
+które           latka           listopada       
+mamy            miał            miejsca         
+mnie            mogą            może            
+najlepsze       nawet           niego           
+osób            podczas         pogoda          
+powód           premiery        przed           
+rekord          skiej           sport           
+teraz           ujawnia         warszawie       
+wcześniej       wideo           wiele           
+więcej          wygląda         zdradził        
+zobacz          zrobić          świata          
+życie           
 
 Words occurring in the quantity of 3:
 
-akcja           anglii          apokaliptyczna  
-arsenal         auta            auto            
-biznes          buduje          będą            
-ciepłe          coraz           córka           
-cówce           dlaczego        dobrze          
-dolarów         dramat          dzieci          
-dziecko         dzieje          dzięki          
-ekstraklasa     elon            fani            
-firma           gdzie           gole            
-gorzej          halloween       hicie           
-internauci      iran            jesie           
-jeszcze         joanna          jutro           
-kaczy           katastrofa      kiedy           
-kierowców       kilku           kobiet          
-kobiety         kolejne         kraju           
-który           latka           legia           
-lekarza         lepszy          letnia          
-lewandowski     liczba          madryt          
-mają            mamy            masz            
-mazowszu        meczu           meghan          
-miał            miejsca         milion          
-miliony         mistrzów        mogli           
-musk            najlepszych     najnowsze       
-naprawdę        naszych         nich            
-niej            nigdy           nowa            
-nowy            odry            ofiary          
-ojca            ostatnich       pierwszy        
-piątek          polak           polaków         
-polsce          polska          polski          
-polskie         pomoc           potem           
-powstanie       powód           pozew           
-premier         premiery        problem         
-przepis         przez           pyrkosza        
-płock           real            rekord          
-rozbił          rynku           rząd            
-rządu           sama            selfie          
-show            skandal         skie            
-skiego          skiej           smartfon        
-sobie           sprawdź         stanie          
-start           stylu           sytuacja        
-szef            takich          trafił          
-trik            trzy            uwaga           
-warszawa        warto           wcześniej       
-wielki          większość       wszyscy         
-wszystko        wydarzenia      wygląda         
-właśnie         włoszech        zakupy          
-zawsze          zdradził        zdrowie         
-znów            zrobić          zrobiła         
-łódź            ślub            śmierci         
-śmierć          śnieg           świecie         
-życia           END
+aktorka         auta            auto            
+bardziej        biznes          było            
+będą            chciał          chcą            
+coraz           czeka           czym            
+dlaczego        dobre           domu            
+dość            dramat          duże            
+dużo            dziecko         dzięki          
+fani            francja         google          
+grozi           gwiazda         halloween       
+hicie           historyczny     horror          
+internauci      jeszcze         katastrofa      
+kiedy           kiedyś          kierowcy        
+kobiety         kogo            kolejne         
+która           który           legia           
+liczba          listopadzie     mają            
+mecz            meczu           meghan          
+michał          mistrzów        model           
+mogli           musi            musk            
+największe      nich            niedzielę       
+niej            niepodległości  niesamowite     
+nigdy           nowa            nowy            
+ojca            osoby           padł            
+pani            pieniędzy       pierwsza        
+pierwszy        pijany          piątek          
+pogody          pokazał         pokazała        
+polacy          polityka        polsce          
+polska          polski          porodzie        
+poważne         powrót          praca           
+pracy           premier         problem         
+proste          przepis         przez           
+płock           rodzice         rośnie          
+rynku           rzeczy          rządu           
+samobójstwo     selfie          skandal         
+skiego          smartfon        sposoby         
+sprawdź         sprawie         stanie          
+statek          stopni          straci          
+stronę          stwa            sytuacja        
+słowa           tego            terytorium      
+trenera         trudno          trump           
+trzy            tura            twarz           
+uwaga           warszawa        warto           
+ważny           wielka          wielki          
+wielkie         wszystkie       wszystko        
+wyborów         wydarzenia      wyniki          
+zachorowa       zakupy          zanim           
+zawsze          zdjęcia         zdrowie         
+zmarła          zmiany          znów            
+został          łódź            śmierci         
+świecie         życia           
