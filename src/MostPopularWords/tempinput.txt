@@ -1,5 +1,0 @@
-span.title http://www.onet.pl/
-span.title http://www.pornhub.com/
-span.video_title http://www.redtube.com/
-span.video-thumb-info https://www.xhamster.com/
-span.video_title http://www.redtube.com/
